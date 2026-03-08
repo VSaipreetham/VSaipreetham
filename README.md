@@ -3,9 +3,6 @@
 
 
 - 🔭 I’m currently working on Generative AI & Agentic AI
-- 🌱 I’m currently learning at VIT
-- 👯 I’m looking to collaborate on Stanford core nlp
-- 💬 Ask me about Data science
 - 📫 How to reach me: valipishettysai@gmail.com
 
 <p  align = "center">
