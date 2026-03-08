@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Gesture controller and Audio to sign language convertor
+- 🔭 I’m currently working on Generative AI & Agentic AI
 - 🌱 I’m currently learning at VIT
 - 👯 I’m looking to collaborate on Stanford core nlp
 - 💬 Ask me about Data science
